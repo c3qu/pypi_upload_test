@@ -1,0 +1,3 @@
+build/
+dist/
+study_and_revise.egg-info/

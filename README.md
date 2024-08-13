@@ -5,13 +5,13 @@
 ### 添加复习项
 
 ```cmd
-python sr.py review_name position
+review review_name position
 ```
 
 ### 查看今天的复习项
 
 ```cmd
-python sr.py
+review
 ```
 
 ## .pypirc格式
